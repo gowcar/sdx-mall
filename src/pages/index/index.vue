@@ -26,17 +26,17 @@
 <style>
 	.content {
 		text-align: center;
-		height: 400upx;
+		height: 200px;
 	}
 
 	.logo {
-		height: 200upx;
-		width: 200upx;
-		margin-top: 200upx;
+		height: 100px;
+		width: 100px;
+		margin-top: 100px;
 	}
 
 	.title {
-		font-size: 36upx;
+		font-size: 18px;
 		color: #8f8f94;
 	}
 </style>
